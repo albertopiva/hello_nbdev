@@ -2,6 +2,11 @@
 > Tutorial on nbdev.
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 ## Install
 
 `pip install hello_nbdev`
